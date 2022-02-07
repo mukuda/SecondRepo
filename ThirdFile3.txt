@@ -1,2 +1,3 @@
 I am the third file
 I am second line in Third File
+I am third line in Third file
